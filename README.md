@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @DevXino
-- 👀 I’m interested in game development
+- 🎓 I'm a Computer Science student
+- 👀 I’m interested in game development 
 - 🌱 I’m currently learning Godot
 
 <!---
